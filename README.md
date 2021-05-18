@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Sarah 👋
 
+Welcome to my Github!
+
+	🍒 I am currently working at TechIntern.io as a full stack developer intern
+	
+	🌼 I am a 2nd year student studying computer science at the University of Toronto
+	
+	☀️ I enjoy integrating art with software in my projects, especially in areas like game design, web development, and UX/UI
+	
 <!--
 **sarahhjchung/sarahhjchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

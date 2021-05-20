@@ -2,7 +2,7 @@
 
 Welcome to my Github!
 
-	🍒 I am currently working at TechIntern.io as a full stack developer intern
+	🍒 I am currently working at Techintern.io as a full stack developer intern
 	
 	🌼 I am a 2nd year student studying computer science at the University of Toronto
 	

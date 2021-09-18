@@ -4,7 +4,7 @@ Welcome to my Github!
 
 	🍒 I am currently working at Techintern.io as a full stack developer intern
 	
-	🌼 I am a 2nd year student studying computer science at the University of Toronto
+	🌼 I am a 3rd year student studying computer science at the University of Toronto
 	
 	☀️ I enjoy integrating art with software in my projects, especially in areas like game design, web development, and UX/UI
 	

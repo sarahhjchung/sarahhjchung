@@ -1,8 +1,8 @@
-### Hi there, I'm Sarah 👋
+### Hi there, I'm Sarah (she/her) 👋
 
 Welcome to my Github!
 
-	🍒 I am currently working at Techintern.io as a full stack developer intern
+	🍒 I interned at Techintern.io as a full stack developer last summer
 	
 	🌼 I am a 3rd year student studying computer science at the University of Toronto
 	

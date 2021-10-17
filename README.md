@@ -2,6 +2,8 @@
 
 Welcome to my Github!
 
+	🎠 Currently, I'm a work-study student with a web developer role at VinciLabs connected with UofT Hatchery
+
 	🍒 I interned at Techintern.io as a full stack developer last summer
 	
 	🌼 I am a 3rd year student studying computer science at the University of Toronto

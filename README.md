@@ -2,7 +2,7 @@
 
 Welcome to my Github!
 
-	🎠 Currently, I'm a work-study student with a web developer role at VinciLabs connected with UofT Hatchery
+	🎠 Currently, I'm an Associate Engineer working in the Data Engineering team at Wattpad
 
 	🍒 I interned at Techintern.io as a full stack developer last summer
 	

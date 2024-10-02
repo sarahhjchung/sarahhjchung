@@ -2,9 +2,9 @@
 
 Welcome to my Github!
 
-	🍊 I completed a 16 month co-op term in the Data Engineering team at Wattpad last summer
-
-	🫐 I interned at Techintern.io as a full stack developer in the summer of 2021
+	🫐 I am currently interning at Mozilla on the Firefox Onboarding, Messaging, and Communications team
+	
+ 	🍊 I completed a 16 month co-op term in the Data Engineering team at Wattpad last summer
 	
 	🍏 I am a 4th year student studying computer science at the University of Toronto
 	
